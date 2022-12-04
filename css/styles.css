@@ -509,8 +509,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 /* Наші переваги */
 
-.backgroundsection {
-}
 
 .contentinterval {
     padding-top: 94px;
@@ -651,9 +649,6 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 
-.what-we-do-image {
-
-}
 
 .what-we-do-box {
     position: relative;
@@ -740,10 +735,6 @@ h1, h2, h3, h4, h5, h6, p {
     fill: #AFB1B8;
 }
 
-/* .join-socials .icon-footer-social+.icon-footer-social {
-    margin-left: 10px;
-    /* border: 2px solid tomato; */
-} */
 
 .team-social-list .social-list-item+.social-list-item {
     margin-left: 10px;
@@ -760,9 +751,6 @@ h1, h2, h3, h4, h5, h6, p {
     fill: var(--hero-title-color);
 }
 
-.team-social-icons:hover {
-
-}
 
 .social-icon-team {
     fill: currentColor;
@@ -1002,9 +990,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 /* Портфоліо */
 
-.portfolio-background-color {
-
-}
 
 .filtering-button:hover, .filtering-button:focus  {
     background-color: var(--accent-color);
